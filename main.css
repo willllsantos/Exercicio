@@ -106,7 +106,7 @@ color: black;
     background-color: rgba(0, 0, 0, 0.1);
 }
 
-    #tecnologia .articles article a{
-        background-color: rgba(0, 0, 0, 0.2); 
-        color: black;
+#tecnologia .articles article a{
+     background-color: rgba(0, 0, 0, 0.2); 
+     color: black;
     }
